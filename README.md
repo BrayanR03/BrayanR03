@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am studying systems engineering<br>I like the data area<br>I consider programming an art<br>I consider data a fundamental pillar in a company<br>I consider teamwork very important
+Graduated in Systems Engineering 💻| Passionate about Data Analysis 📊| Aspiring Data Analyst 📊
 
+I believe that information is a fundamental pillar in decision-making. My goal is to transform data into valuable insights—any data, anywhere, at any time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rafael-neciosup-bolaños-407a59246/)<br> 
