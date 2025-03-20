@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduated in Systems Engineering 💻| Passionate about Data Analysis 📊| Aspiring Data Analyst 📊
+Bachelor in Systems Engineering 💻| Passionate about Data Analysis 📊| Aspiring Data Analyst 📊
 I believe that information is a fundamental pillar in decision-making. My goal is to transform data into valuable insights—any data, anywhere, at any time.
 
 ## 🌐 Socials:
