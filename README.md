@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor's Degree in Systems Engineering 💻 | Passionate about Data Analysis and Engineering 📊 | Aspiring Data Analyst/Engineer 📊 I consider information to be fundamental to decision-making in every aspect of our lives. My goal is to transform data into valuable information: any data, anywhere, anytime.
+Bachelor's Degree in Systems Engineering 💻 | Passionate about Data Analysis and Engineering 📊 | Aspiring Data Engineer 📊 I consider information to be fundamental to decision-making in every aspect of our lives. My goal is to transform data into valuable information: any data, anywhere, anytime.
 
 
 ## 🌐 Socials:
