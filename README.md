@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor's Degree in Systems Engineering 💻 | Passionate about Data Engineering 📊 | Data Engineer in Training 📊 I believe that information is fundamental to decision-making in all aspects of our lives. My goal is to transform data into valuable information: any data, anywhere, anytime.
+Systems Engineer 💻 | Passionate about Data & Cloud Engineering 📊 | Data Engineer in Training 📊 I believe that information is fundamental to decision-making in all aspects of our lives. My goal is to transform data into valuable information: any data, anywhere, anytime.
 
 
 ## 🌐 Socials:
