@@ -35,5 +35,5 @@
 ![ETL](https://img.shields.io/badge/ETL%2FELT-00A98F?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Streaming](https://img.shields.io/badge/Streaming-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-## GitHub Stats
-![GitHub Stats Card](https://ghstats.dev/api/card?username=BrayanR03)
+## Top Languages
+![Top Languages](https://ghstats.dev/api/langs?username=BrayanR03)
